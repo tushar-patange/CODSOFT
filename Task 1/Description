@@ -1,0 +1,3 @@
+The "Number Game" is an engaging Java application that challenges players to guess a randomly generated number within a specified range.
+Utilizing Java's core features, this game offers an interactive console-based experience where users receive feedback on their guesses, such as indications if the guess is too high or too low. 
+It's an excellent demonstration of fundamental programming concepts like loops, conditional statements, and user input handling.
